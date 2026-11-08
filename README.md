@@ -1,79 +1,31 @@
-## `> whoami`
+# Norton Almeida
 
-```text
-Norton Almeida
-Software engineer · Brazil
-```
-
-Full-stack on TypeScript. Vue and Nuxt on the front, Node and NestJS behind it, Azure underneath.
-
-Off the clock: a Linux desktop on Hyprland, dotfiles under chezmoi, and tooling that keeps AI coding agents on task.
-
+Software engineer in Brazil. Full-stack on TypeScript, Linux desktop, tooling for AI coding agents.
 Site: [nortonalmeida.dev](https://nortonalmeida.dev)
 
----
+## Now
 
-## `> focus`
+_Updated 2026-11_
 
-<table>
-<tr>
-<td width="33%" align="center">
+- Shipping an order-management platform: Vue 3 micro-frontends, NestJS BFF, Azure (App Configuration, APIM, Application Insights).
+- Writing a terminal dashboard in Go that watches local Claude Code, Codex and Gemini sessions. Private until it is useful to someone else.
+- Keeping [ai-tooling-free](https://github.com/nortonx/ai-tooling-free) in sync with the Agent Skills standard across Claude Code, Copilot CLI and Gemini CLI.
 
-### Frontend
+## Recently
 
-Vue 3 · Nuxt · React · Next.js
-
-Typed components, small bundles,
-no framework for its own sake.
-
-</td>
-<td width="33%" align="center">
-
-### Backend
-
-Node.js · NestJS · Express · Azure
-
-APIs, BFFs and the pipelines
-that ship them.
-
-</td>
-<td width="33%" align="center">
-
-### AI tooling
-
-Claude Code · Copilot CLI · Gemini CLI
-
-Skills, agents and guardrails
-for coding agents.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> projects`
-
-| Project | What it is |
+| When | What |
 |---|---|
-| **[ai-tooling-free](https://github.com/nortonx/ai-tooling-free)** | Cross-platform skills and agents for Claude Code, GitHub Copilot CLI and Gemini CLI. Symlinked, no postinstall. |
-| **[tokyo-night-storm-sober](https://github.com/nortonx/tokyo-night-storm-sober)** | Tokyo Night Storm Chrome theme with contrast tuned for long reading sessions. |
+| 2026-10 | [ai-tooling-free](https://github.com/nortonx/ai-tooling-free): 18 skills and 10 agents, symlinked, no postinstall, no settings rewrite. |
+| 2026-08 | [tokyo-night-storm-sober](https://github.com/nortonx/tokyo-night-storm-sober): Chrome theme on the Tokyo Night Storm palette, contrast tuned for long reading. |
+| 2026-06 | Moved every machine config (Linux and Windows) to chezmoi. One repo, two platforms. |
+| 2026-04 | Rebuilt [nortonalmeida.dev](https://nortonalmeida.dev) on Next.js. |
 
-Everything else stays private until it is worth showing.
+## Tools
 
----
+- **Languages**: TypeScript, Node.js. Go for CLIs.
+- **Frontend**: Vue 3, Nuxt, React, Next.js.
+- **Backend**: NestJS, Express. Azure in production.
+- **Desktop**: CachyOS, Hyprland and KDE Plasma, dotfiles under chezmoi.
+- **Agents**: Claude Code, GitHub Copilot CLI, Gemini CLI.
 
-## `> stack`
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  OS          Linux (CachyOS · Hyprland)              │
-│  Language    TypeScript · Node.js                    │
-│  Frontend    Vue 3 · Nuxt · React · Next.js          │
-│  Backend     NestJS · Express · Azure                │
-│  Tooling     pnpm · Playwright · chezmoi             │
-│  AI          Claude Code · Copilot CLI · Gemini CLI  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+Everything not listed here is private until it is worth showing.
