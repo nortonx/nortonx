@@ -1,8 +1,6 @@
 ## `> whoami`
 
 ```text
-norton@github:~$ whoami
-
 Norton Almeida
 Software engineer · Brazil
 ```
